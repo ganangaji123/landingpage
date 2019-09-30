@@ -1,0 +1,416 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"session_de",
+				"session_destroy"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"align",
+				"align-content\tproperty"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"sess",
+				"session_destroy"
+			],
+			[
+				"siswa",
+				"siswa"
+			],
+			[
+				"mysqli_",
+				"mysqli_connect"
+			],
+			[
+				"mysqli",
+				"mysqli_fetch"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"pass",
+				"Password"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"t1_order",
+				"t1_order_v"
+			],
+			[
+				"u",
+				"Username"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"id_",
+				"id_masakan"
+			],
+			[
+				"status_",
+				"status_transaksi"
+			],
+			[
+				"nama",
+				"namalengkap"
+			],
+			[
+				"t1",
+				"t1_order"
+			],
+			[
+				"mod",
+				"mod_t1_order"
+			],
+			[
+				"modu",
+				"modul"
+			],
+			[
+				"nam",
+				"nama_produk"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"myy",
+				"mysqli_query"
+			],
+			[
+				"id",
+				"id_order"
+			],
+			[
+				"k",
+				"Keterangan"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"mysql_",
+				"mysql_connect"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 165.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/landingpage/js/creative.min.js",
+		"/D/landingpage/css/creative.min.css",
+		"/D/landingpage/index.html",
+		"/E/xampp/htdocs/uts_adnan/style.css",
+		"/E/xampp/htdocs/uts_adnan/daftar.php",
+		"/E/xampp/htdocs/uts_adnan/registrasi.php",
+		"/C/Users/LENOVO/Downloads/Compressed/aplikasi_penjualan_php_mysql-master/admin/config.php",
+		"/E/xampp/htdocs/uts_bayumuizza/style.css",
+		"/E/xampp/htdocs/uts_bayumuizza/daftar.php",
+		"/E/xampp/htdocs/uts_bayumuizza/registrasi.php",
+		"/E/xampp/htdocs/uts_pavel/daftar.php",
+		"/E/xampp/htdocs/uts_pavel/registrasi.php",
+		"/E/xampp/htdocs/grad/logout.php",
+		"/E/xampp/htdocs/grad/registrasi.php",
+		"/E/xampp/htdocs/grad/daftar.php",
+		"/E/xampp/htdocs/grad/db_connect.php",
+		"/E/xampp/htdocs/grad/index.php",
+		"/E/xampp/htdocs/grad/style.css",
+		"/E/xampp/htdocs/grad/haluser.php",
+		"/E/xampp/htdocs/grad/cek_login.php",
+		"/E/xampp/htdocs/grad/halsiswa.php",
+		"/E/xampp/htdocs/perfect/registrasi.php",
+		"/E/xampp/htdocs/ex/style.css",
+		"/E/xampp/htdocs/exx/style.css",
+		"/E/xampp/htdocs/perfect/daftar.php",
+		"/E/xampp/htdocs/perfect/logout.php",
+		"/E/xampp/htdocs/perfect/haluser.php",
+		"/E/xampp/htdocs/perfect/haladmin.php",
+		"/E/xampp/htdocs/perfect/index.php",
+		"/E/xampp/htdocs/perfect/cek_login.php",
+		"/E/xampp/htdocs/perfect/db_connect.php",
+		"/E/xampp/htdocs/exx/haladmin.php",
+		"/E/xampp/htdocs/grad/haladmin.php",
+		"/E/xampp/htdocs/exx/db_connect.php",
+		"/E/xampp/htdocs/grad/regis.php",
+		"/E/xampp/htdocs/grad.rar",
+		"/E/xampp/htdocs/exx/registrasi.php",
+		"/E/xampp/htdocs/exx/daftar.php",
+		"/E/xampp/htdocs/grad/ceko_login.php",
+		"/E/xampp/htdocs/uts/style.css",
+		"/E/xampp/htdocs/uts/daftar.php",
+		"/E/xampp/htdocs/uts/registrasi.php",
+		"/E/xampp/htdocs/uts/logout.php",
+		"/E/xampp/htdocs/uts/halsiswa.php",
+		"/E/xampp/htdocs/uts/haladmin.php",
+		"/E/xampp/htdocs/uts/db_connect.php",
+		"/E/xampp/htdocs/uts/cek_login.php",
+		"/E/xampp/htdocs/uts/index.php",
+		"/E/xampp/htdocs/exx/index.php",
+		"/E/xampp/htdocs/exx/cek_login.php",
+		"/E/xampp/htdocs/uts/db_connect",
+		"/E/xampp/htdocs/exx/halsiswa.php",
+		"/E/xampp/htdocs/ex/haladmin.php",
+		"/E/xampp/htdocs/ex/cek_login.php",
+		"/E/xampp/htdocs/ex/index.php",
+		"/E/xampp/htdocs/ex/db_connect.php",
+		"/E/xampp/htdocs/warungss/daftar.php",
+		"/E/xampp/htdocs/warungss/registrasi.php",
+		"/E/xampp/htdocs/exx/logout.php",
+		"/E/xampp/htdocs/ex/logout.php",
+		"/E/xampp/htdocs/warungss/config.php",
+		"/E/xampp/htdocs/warungss/josys/db_connect.php",
+		"/E/xampp/htdocs/warungss/modul/mod_t1_detail_order/t1_detail_order_v.php",
+		"/E/xampp/htdocs/warungss/cek_login.php",
+		"/E/xampp/htdocs/warungss/modul/mod_t1_detail_order_pelayan/t1_detail_order_v_pelayan.php",
+		"/E/xampp/htdocs/umkmsrikandi/jocon/home.php",
+		"/D/Ganang/PKL/alifahijab/jocon/home.php",
+		"/D/Ganang/PKL/alifahijab/admin/modul/mod_product/product.php",
+		"/D/Ganang/PKL/alifahijab/admin/modul/mod_product/error_log",
+		"/D/Ganang/PKL/alifahijab/admin/modul/mod_product/aksi_product.php",
+		"/D/Ganang/penjualan/mod/penjualan/act_penjualan.php",
+		"/D/Ganang/penjualan/mod/penjualan/penjualan.php",
+		"/E/xampp/htdocs/warungss/modul/mod_t1_order_pelayan/t1_order_v_pelayan.php",
+		"/E/xampp/htdocs/warungss/modul/mod_t1_detail_order_pelayan/t1_detail_order_c_pelayan.php",
+		"/E/xampp/htdocs/warungss/modul/mod_t1_transaksi_pelayan/t1_transaksi_v_pelayan.php",
+		"/E/xampp/htdocs/warungss/modul.php",
+		"/E/xampp/htdocs/warungss/modul/mod_t1_transaksi_kasir/t1_transaksi_c_kasir.php",
+		"/E/xampp/htdocs/warungss/modul/mod_t1_transaksi_kasir/t1_transaksi_v_kasir.php",
+		"/E/xampp/htdocs/warungss/mediakasir.php",
+		"/E/xampp/htdocs/warungss/mediapelayan.php",
+		"/E/xampp/htdocs/warungss/modul/mod_t1_transaksi_pelayan/t1_transaksi_c_pelayan.php",
+		"/E/xampp/htdocs/warungss/modul/mod_t1_transaksi/t1_transaksi_v.php",
+		"/E/xampp/htdocs/warungss/modul/mod_t1_order_pelayan/t1_order_c_pelayan.php",
+		"/E/xampp/htdocs/warungss/media.php",
+		"/E/xampp/htdocs/warungss/modul/mod_t1_transaksi/t1_transaksi_c.php",
+		"/E/xampp/htdocs/warungss/modul/mod_t1_transaksi/t1_transaksi_add.php",
+		"/E/xampp/htdocs/warungss/modul/mod_t1_order/t1_order_c.php",
+		"/E/xampp/htdocs/warungss/modul/mod_t1_order/t1_order_v.php",
+		"/E/xampp/htdocs/warungss/modul/mod_t1_detail_order/t1_detail_order_c.php",
+		"/E/xampp/htdocs/ex/halsiswa.php",
+		"/E/xampp/htdocs/warungss/index.php",
+		"/E/xampp/htdocs/warungss/logout.php",
+		"/E/xampp/htdocs/warungss/db/db_warungss.sql",
+		"/E/xampp/htdocs/ex/cek_login.hp",
+		"/E/xampp/htdocs/penjualan/lib/conn.php",
+		"/E/xampp/htdocs/penjualan/login_check.php",
+		"/E/xampp/htdocs/penjualan/login.php",
+		"/E/xampp/htdocs/penjualan/mod/penjualan/penjualan.php",
+		"/E/xampp/htdocs/penjualan/mod/penjualan/act_penjualan.php",
+		"/E/xampp/htdocs/app/admin/config.php",
+		"/E/xampp/htdocs/app/login_act.php",
+		"/E/xampp/htdocs/app/index.php",
+		"/E/xampp/htdocs/app/admin/index.php",
+		"/C/Users/LENOVO/Downloads/Compressed/textbox-jquery/index.php",
+		"/E/xampp/htdocs/umkmsrikandi/jocon/cart.php",
+		"/E/xampp/htdocs/umkmsrikandi/jocon/_cart.php",
+		"/E/xampp/htdocs/warungss/modul/mod_profile/login_v.php",
+		"/E/xampp/htdocs/warungss/modul/mod_profile/login_c.php",
+		"/D/Ganang/warungss/cek_login.php",
+		"/D/Ganang/warungss/daftar.php",
+		"/E/xampp/htdocs/warungss/assets/css/mdl.app.css",
+		"/E/xampp/htdocs/warungss/modul/mod_home/home.php",
+		"/E/xampp/htdocs/warungss/josys/index.php",
+		"/E/xampp/htdocs/umkmsrikandi/jocon/howtoorder.php",
+		"/E/xampp/htdocs/warungss/modul/mod_t1_masakan/t1_masakan_v.php",
+		"/E/xampp/htdocs/umkmsrikandi/jocon/orders.php",
+		"/E/xampp/htdocs/warungss/modul/mod_t1_masakan/t1_masakan_c.php",
+		"/E/xampp/htdocs/warungss/modul/mod_profile/profile_v.php",
+		"/E/xampp/htdocs/warungss/modul/mod_profile/profile_c.php",
+		"/E/xampp/htdocs/warungss/.htaccess",
+		"/E/xampp/htdocs/mybento/media.php",
+		"/E/xampp/htdocs/mybento/.htaccess",
+		"/D/sangsurya/sangsurya/application/views/v_input_order.php",
+		"/E/xampp/htdocs/warungss/modul/mod_menu_resto/menu_resto_v.php",
+		"/E/xampp/htdocs/umkmsrikandi/jocon/add_cart.php",
+		"/E/xampp/htdocs/umkmsrikandi/.htaccess",
+		"/E/xampp/htdocs/umkmsrikandi/jocon/_checkout.php",
+		"/E/xampp/htdocs/umkmsrikandi/jocon/checkout.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
